@@ -14,17 +14,18 @@ h1 {
     width: fit-content;
     border-style: solid;
     border-width: 2px;
-    h2 {
-        color: #212529;
-        font-size: medium;
-        font-weight: bold;
-    }
-    ul {
-        list-style-type: none;
-        li {
-            color: #343a40;
-        }
-    }
 }
 
+.functions-list h2 {
+    color: #212529;
+    font-size: medium;
+    font-weight: bold;
+}
 
+.functions-list ul {
+    list-style-type: none;
+}
+
+.functions-list ul li {
+    color: #343a40;
+}
