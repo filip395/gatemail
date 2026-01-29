@@ -17,9 +17,10 @@ h1 {
         font-size: medium;
         font-weight: bold;
     }
-    ul {
+    li {
         color: gray;
-        
+        list-style-type: none;
     }
     
 }
+
