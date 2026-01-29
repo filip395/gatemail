@@ -10,17 +10,21 @@ h1 {
 
 .functions-list {
     margin: 5px;
+    padding: 5px;
+    width: fit-content;
     border-style: solid;
     border-width: 2px;
     h2 {
-        color: black;
+        color: #212529;
         font-size: medium;
         font-weight: bold;
     }
-    li {
-        color: gray;
+    ul {
         list-style-type: none;
+        li {
+            color: #343a40;
+        }
     }
-    
 }
+
 
